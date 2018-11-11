@@ -1,13 +1,13 @@
 About r-truncnorm
 =================
 
-Home: https://CRAN.R-project.org/package=truncnorm
+Home: https://github.com/olafmersmann/truncnorm
 
-Package license: GPL-2
+Package license: GPL (>= 2)
 
 Feedstock license: BSD 3-Clause
 
-Summary: r/d/p/q functions for the truncated normal distribution
+Summary: Density, probability, quantile and random number generation functions for the truncated normal distribution.
 
 
 
