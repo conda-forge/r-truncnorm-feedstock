@@ -42,7 +42,7 @@ test:
 
 about:
   home: https://github.com/olafmersmann/truncnorm
-  license: GPL (>= 2)
+  license: GPL-2.0.-or-later
   summary: Density, probability, quantile and random number generation functions for the truncated normal distribution.
   license_file: {{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-3
 
