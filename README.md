@@ -9,7 +9,7 @@ About r-truncnorm
 
 Home: https://github.com/olafmersmann/truncnorm
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Summary: Density, probability, quantile and random number generation functions for the truncated normal distribution.
 
@@ -18,7 +18,7 @@ About r-truncnorm
 
 Home: https://github.com/olafmersmann/truncnorm
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Summary: Density, probability, quantile and random number generation functions for the truncated normal distribution.
 
